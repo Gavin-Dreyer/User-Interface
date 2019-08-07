@@ -64,3 +64,187 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+nav {
+	text-align: center;
+}
+
+nav a{
+	text-decoration: none;
+	color: gray;
+	display: inline-block;
+	padding: 40px;
+}
+
+header {
+	text-align: center;
+}
+.headerContent {
+	font-size: 70px;
+	display: inline-block;
+	position: relative;
+	left: 75px;
+	top: -100px;
+	margin: 50px;
+}
+
+#headerContent {
+	display: inline-block;
+	color: grey;
+	border: 2px solid grey;
+	width: 175px;
+	height: 50px;
+	padding: 15px;
+	text-align: center;
+	position: relative;
+	top: -50px;
+	right: 225px;
+}
+
+.imageOne {
+	display: inline-block;
+	position: relative;
+	top: 25px;
+	left: -30px;
+}
+
+.info{
+	border: 2px solid grey;
+	padding: 20px 0px 400px 0px;
+}
+
+.topContent .featuresWords {
+	display: inline-block;
+	height: 100px;
+	width: 400px;
+	text-align: left;
+	position: absolute;
+	margin: 5px;
+	left: 265px;
+	top: 600px;
+}
+
+#features{
+	display: inline-block;
+	position: absolute;
+	
+	font-size: 30px;
+	left: 270px;
+
+}
+
+.topContent .aboutWords {
+	
+	display: inline-block;
+	height: 100px;
+	width: 400px;
+	text-align: left;
+	position: absolute;
+	left: 825px;
+	top: 600px;
+}
+
+#about {
+	display: inline-block;
+	position: absolute;
+	
+	font-size: 30px;
+	left: 825px;
+
+}
+
+.middle-img {
+	position: relative;
+	margin: 40px;
+	right: -20%;
+	top: 175px;
+	
+}
+
+.bCSServices{
+	display: inline-block;
+	position: absolute;
+	left: 270px;
+	top: 1000px;
+	font-size: 30px;
+}
+
+.bCSProduct{
+	display: inline-block;
+	position: absolute;
+	left: 575px;
+	top: 1000px;
+	font-size: 30px;
+}
+
+.bCSVision{
+	display: inline-block;
+	position: absolute;
+	left: 900px;
+	top: 1000px;
+	font-size: 30px;
+
+}
+
+.bCPServices{
+	display: inline-block;
+	position: absolute;
+	text-align: left;
+	height: 100px;
+	width: 300px;
+	top: 1100px;
+	left: 270px;
+}
+
+.bCPProduct{
+	display: inline-block;
+	position: absolute;
+	text-align: left;
+	height: 100px;
+	width: 300px;
+	top: 1100px;
+	left: 575px;
+}
+
+.bCPVision{
+	display: inline-block;
+	position: absolute;
+	text-align: left;
+	height: 100px;
+	width: 300px;
+	top: 1100px;
+	left: 900px;
+}
+
+.contact{
+	display: inline-block;
+	position: relative;
+	text-align: left;
+	border: 2px solid red;
+	height: 300px;
+	width: 200px;
+	top: 100px;
+	left: 270px;
+}
+
+#contact{
+	display: inline-block;
+	position: absolute;
+	text-align: left;
+	border: 2px solid red;
+	height: 300px;
+	width: 200px;
+	top: 100px;
+	left: 270px;
+	font-size: 30px;
+}
+
+.divContact{
+	padding: 15px;
+}
+
+footer{
+	display: inline-block;
+	position: relative;
+	border: 2px solid red;
+	top: 800px;
+}
